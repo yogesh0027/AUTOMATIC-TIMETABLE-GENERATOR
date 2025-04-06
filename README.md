@@ -1,4 +1,4 @@
-# AUTOMATIC-TIMETABLE-GENERATOR - College Timetable Management System
+# AUTOMATIC-TIMETABLE-GENERATOR
 
 ![Application Screenshot](images/launchscreen.png)
 
@@ -58,4 +58,6 @@ src/
 - Yogesh 
 - Priya 
 - Raghul 
+
+
 
